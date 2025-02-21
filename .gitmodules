@@ -1,0 +1,3 @@
+[submodule "testb"]
+	path = testb
+	url = git@github.com:h1m3k0/testb.git
